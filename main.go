@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"fruadmetrix.cn/auto-send-payroll/config"
-	"fruadmetrix.cn/auto-send-payroll/mail"
+	"github.com/sdvdxl/auto-send-payroll/config"
+	"github.com/sdvdxl/auto-send-payroll/mail"
 	"github.com/axgle/pinyin"
 	"github.com/tealeg/xlsx"
 	"strings"
