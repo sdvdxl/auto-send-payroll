@@ -1,0 +1,7 @@
+smtp_server: smtp.qiye.163.com
+port: 25
+sender_email: xxx@fraudmetrix.cn
+sender_name: 杜祥龙
+sender_password: xxx
+subject: 账单
+execl_path: excel_path(xlsx)

@@ -1,0 +1,27 @@
+{
+	"ImportPath": "fruadmetrix.cn/auto-send-payroll",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/axgle/mahonia",
+			"Rev": "5dd783869dfe0a7d5a3049b20b8ae1418c5dcc8a"
+		},
+		{
+			"ImportPath": "github.com/axgle/pinyin",
+			"Rev": "7c1d87121dda84a961f53e138a73505be1a2cfdc"
+		},
+		{
+			"ImportPath": "github.com/tealeg/xlsx",
+			"Comment": "go1.1.2-302-gc88705e",
+			"Rev": "c88705e2e8101c9d7877273d777db72580fd3732"
+		},
+		{
+			"ImportPath": "gopkg.in/alexcesaro/quotedprintable.v2",
+			"Rev": "9b4a113f96b3263b5223fe9c5fd1d1115811b343"
+		},
+		{
+			"ImportPath": "gopkg.in/gomail.v1",
+			"Rev": "11b919ab4933936a28fb6aeda5c6523091266f37"
+		}
+	]
+}
